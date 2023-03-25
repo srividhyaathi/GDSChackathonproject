@@ -1,0 +1,106 @@
+.container-fluid{
+    background-color:rgb(243, 14, 14);
+    color: white;
+}
+/* .container-fluid::after{
+
+    content: '';
+    position:absolute;
+    z-index: -1;
+    inset: 0;
+    background: black;
+    opacity: 0.5;
+} */
+.img1{
+    width: 80px;
+    height: 80px;
+    border: 0px;
+    border-radius: 50%;
+    position: relative;
+    left: 20px;
+   
+}
+.navdiv{
+    position: relative;
+    left: 30px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#navbarText{
+    position: relative;
+    left: 400px;
+
+}
+.collapse ul li a{
+    color: white;
+}
+.nav-item{
+    font-size: 40px;
+    font-weight: bold;
+    margin-right: 30px;
+    color: white;
+
+}
+.nav-item:hover{
+    color: white;
+}
+.bgdiv{
+    background: url(https://img.freepik.com/free-photo/black-ink-background_1409-1439.jpg?w=1060&t=st=1676304188~exp=1676304788~hmac=51c57d321ccee3b99d6744b880e6c383edd4c3f052e2995aa0435be4f6d65afb);
+    /* background-image: url(https://media.istockphoto.com/id/1198893602/photo/gavel-and-legal-law-books-concept-imagery.jpg?s=612x612&w=0&k=20&c=9AgPHoIO4sSNLN4wsVwknxtWs_Hb64y-9LEmzyJlAvk=); */
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 600px;
+
+}
+.bgdiv::after{
+    content: '';
+    position:absolute;
+    z-index: -1;
+    inset: 0;
+    background: black;
+    opacity: 0.1;
+}
+
+.div1{
+    
+    position: relative;
+    left:450px;
+  
+}
+.div1 img{
+    border: 0px;
+    border-radius: 50%;
+    
+}
+.img2{
+    position: relative;
+    top: 180px;
+    width:200px;
+    right: 50px;
+
+}
+.img4{
+    position: relative;
+    top: 180px;
+    width: 200px;
+
+}
+.img3{
+    position: relative;
+    top: 60px;
+  
+}
+ div marquee{
+    font-size: 80px;
+    position: relative;
+    top: 170px;
+    left: 30px;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    
+}
+
+
+
+

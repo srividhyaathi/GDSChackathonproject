@@ -1,0 +1,23 @@
+.contact{
+    display: flex;
+    flex-direction: row;
+    /* position: relative;
+    left: 450px; */
+    margin-left: 500px;
+    /* justify-content: space-around; */
+}
+.contact li{
+    list-style: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+span{
+    color:rgb(23, 134, 177);
+}
+ a{
+    text-decoration: none;
+}
+.footer{
+    position: relative;
+    left:80px;
+}

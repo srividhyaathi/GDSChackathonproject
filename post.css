@@ -1,0 +1,47 @@
+.container-fluid{
+    background-color:rgb(243, 14, 14);
+    color: white;
+}
+/* .container-fluid::after{
+
+    content: '';
+    position:absolute;
+    z-index: -1;
+    inset: 0;
+    background: black;
+    opacity: 0.5;
+} */
+.img1{
+    width: 80px;
+    height: 80px;
+    border: 0px;
+    border-radius: 50%;
+    position: relative;
+    left: 20px;
+   
+}
+.navdiv{
+    position: relative;
+    left: 30px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#navbarText{
+    position: relative;
+    left: 400px;
+
+}
+.collapse ul li a{
+    color: white;
+}
+.nav-item{
+    font-size: 40px;
+    font-weight: bold;
+    margin-right: 30px;
+    color: white;
+
+}
+.nav-item:hover{
+    color: white;
+}
